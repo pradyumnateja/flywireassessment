@@ -1,0 +1,9 @@
+*.zip
+node_modules/
+target/
+.idea/
+.vscode/
+*.class
+*.jar
+*.war
+.DS_Store
