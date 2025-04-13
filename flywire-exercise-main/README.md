@@ -35,7 +35,7 @@ flywire-exercise-main/
 
 2. Run the Spring Boot application:
    ```bash
-   ./mvnw spring-boot:run
+   mvn spring-boot:run
    ```
    The backend will start on http://localhost:8080
 
